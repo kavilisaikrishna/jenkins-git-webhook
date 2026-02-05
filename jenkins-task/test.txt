@@ -1,3 +1,4 @@
 echo "test webhook" > test.txt
 
 email test
+webhook test
